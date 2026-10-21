@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.fsarmesto.liquidacion",
+    "sha256_cert_fingerprints": ["EB:7E:23:BD:79:B8:35:CC:48:0F:C7:A4:AA:F7:3A:88:26:7C:21:DA:AE:D9:B1:EE:B2:B6:CB:28:A8:39:A7:0D"]
+  }
+}]
